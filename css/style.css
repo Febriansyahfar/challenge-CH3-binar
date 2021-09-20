@@ -1,0 +1,117 @@
+#banner {
+    background-image: url('/assets/main-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+#game {
+    background-image: url('/assets/the-games-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#features {
+    background-image: url('/assets/features.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#requirement {
+    background-image: url('/assets/requirements.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+
+}
+
+#topscore {
+    background-image: url('/assets/top-score-bg.png');
+    background-size:cover;
+    height: 100vh;
+    width: 5000px;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+
+.header {
+
+    position: relative;
+    top: 100px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 83px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+
+.header2 {
+    position: relative;
+    top: 150px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: white;
+}
+.play {
+    position: absolute;
+    left: 40.83%;
+    right: 41.09%;
+    top: 55.07%;
+    bottom: 38.68%;
+
+    background: linear-gradient(194.68deg, #FFB548 11.27%, #F3AF34 90.4%);
+    border-radius: 4px;
+
+}
+
+.C1 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: #FFB548;
+    ;
+}
+
+ 
+.bagian6 {
+    color:white;
+    text-align:left;
+    position: relative;
+    top: 100px
+}
+ 
+.utama {
+    color:white;
+    text-align:left;
+    position: relative;
+    top: 100px
+}
+
+.kedua p {
+    color:white;
+    text-align:left;
+    position: relative;
+    top: 100px
+}
+
+ 
